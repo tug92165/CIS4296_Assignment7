@@ -1,0 +1,112 @@
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\CIS4296_Assignment3.dll.config
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\CIS4296_Assignment3.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\CIS4296_Assignment3.pdb
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csc.exe
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csc.exe.config
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csc.rsp
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csi.exe
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csi.exe.config
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csi.rsp
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.AppContext.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Console.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\vbc.exe
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\vbc.exe.config
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\vbc.rsp
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.csprojAssemblyReference.cache
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.csproj.CopyComplete
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.dll
+C:\Users\Alexander Perez\source\repos\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.pdb
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\CIS4296_Assignment3.dll.config
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\CIS4296_Assignment3.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\CIS4296_Assignment3.pdb
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csc.exe
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csc.exe.config
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csc.rsp
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csi.exe
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csi.exe.config
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\csi.rsp
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.AppContext.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Console.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.Compression.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Claims.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.ValueTuple.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\vbc.exe
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\vbc.exe.config
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\vbc.rsp
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.csprojAssemblyReference.cache
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.csproj.CopyComplete
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.dll
+C:\Users\alxr_\Downloads\Perez_Alexander_Assignment3\HW3P3 - Alexander Perez\CIS4296_Assignment3\CIS4296_Assignment3\obj\Debug\CIS4296_Assignment3.pdb
